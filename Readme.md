@@ -32,7 +32,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/*****/awsRegionInstanceListing.git
+   git clone https://github.com/{organizationName}/awsRegionInstanceListing.git
    cd awsRegionInstanceListing
 
 
